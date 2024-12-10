@@ -1,0 +1,6 @@
+projectKey=backend-luckyhand
+serverUrl=https://sonarqube.marsx.io
+serverVersion=10.6.0.92116
+dashboardUrl=https://sonarqube.marsx.io/dashboard?id=backend-luckyhand
+ceTaskId=993993a7-bfcf-44d3-8a9a-23d1f5f7ca93
+ceTaskUrl=https://sonarqube.marsx.io/api/ce/task?id=993993a7-bfcf-44d3-8a9a-23d1f5f7ca93
